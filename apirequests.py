@@ -2,7 +2,7 @@ import requests
 import json
 
 
-api_key = "RGAPI-d73eff70-8fb6-4e91-be51-55ed50e7ccc6"
+api_key = ""
 
 
 def get_account_info(name, tag="BR1"):
